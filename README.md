@@ -1,4 +1,4 @@
-# Google HTML Styleguide RU
+# Google HTML Styleguide 🇷🇺
 _Оригинальную статью можно найти [здесь](https://google.github.io/styleguide/htmlcssguide.html#HTML)._
 
 ## Навигация:
